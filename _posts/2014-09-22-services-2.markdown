@@ -1,10 +1,12 @@
 ---
 layout: default
-img: dog.png
+img: zapin.png
 category: Services
-title: 3D Device Mockups<br>by PSDCovers
+title:  Tarian Zapin Melayu
 description: |
 ---
-  Turn your 2D designs into high quality, 3D
-  product shots in seconds using free Photoshop actions by [PSDCovers](http://www.psdcovers.com/)! Visit
-  their website to download some of their awesome, free photoshop actions!
+  Zapin adalah suatu tarian khas adat melayu bengkalis, dan juga melayu-melayu lainnya yang tersebar di seluruh dunia. 
+  zapin merupakan gerakan yang khas, yang gemulai, yang rancak atau yang patah-patah, meski sangat berdeda dengan breakdance.
+  zapin bagi masyarakat Bengkalis, bahkan juga bagi masyarakat pesisir semenanjung melayu adalah denyut nadi Dinamika kehidupan mereka.
+  maka, bagi masyarakat bengkalis, tidak mengenal zapin serta dinamika nya adalah sesuatu yang sangat keterlaluan.
+  Tarian zapin dari dahulu sudah lama dikenal oleh dunia. tarian zapin juga sering dipertandingkan dalam kesenian melayu. HEBATNYA NEGRI KARNA BUDAYANYA.

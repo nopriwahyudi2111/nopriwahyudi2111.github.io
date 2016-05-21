@@ -1,8 +1,11 @@
 ---
 layout: default
-img: phones.png
+img: colok.png
 category: Services
-title: Google Web Fonts and<br>Font Awesome Icons
+title: Lampu Colok<br>Font Awesome Icons
 description: |
 ---
-This template features the 'Lato' font, part of the [Google Web Font library](http://www.google.com/fonts), as well as [icons from Font Awesome](http://fontawesome.io).
+Tradisi Lampu Colok dalam rangka menyambut malam takbir dan lebaran di Bengkalis – Riau berlangsung meriah. 
+Selain sudah menjadi tradisi, lampu colok ini diperlombakan antar kampung dan mendapat dukungan penuh dari pemerintah setempat.
+Pemasangan lampu colok ini sudah menjadi tradisi setiap tahun diakhir bulan ramadhan dalam menyambut malam takbir dan lebaran.
+ Lampu colok ini terbuat dari kaleng bekas yang diberi sumbu dan diisi minyak tanah dan kemudian disusun berupa kubah–kubah masjid dan hiasan kaligrafi.
