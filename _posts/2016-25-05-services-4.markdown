@@ -1,0 +1,8 @@
+---
+layout: default
+img: selatbaru.png
+category: Services
+title: Selat Baru<br>
+description: |
+---
+Selatbaru , adalah wisata andalan bengkalis, pantai ini  memiliki hamparan pantai yang landai dan berpasir halus sepanjang 2 kilometer dengan jarak sekitar 200 meter dari bibir pantai.
