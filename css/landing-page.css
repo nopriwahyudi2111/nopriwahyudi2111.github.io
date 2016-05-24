@@ -98,11 +98,7 @@ h6 {
     border-top: 1px solid #e7e7e7;
     border-bottom: 1px solid #e7e7e7;
 }
-.content-section-c {
-    padding: 50px 0;
-    background-color: #f8f8f8;
-	}
-	
+
 * Youtube Responsive */
 .videoyoutube{text-align:center;margin:auto;width:100%;}
 .video-responsive{position:relative;padding-bottom:56.25%;height:0;overflow:hidden;}
