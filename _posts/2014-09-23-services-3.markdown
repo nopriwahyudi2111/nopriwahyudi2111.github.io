@@ -2,7 +2,7 @@
 layout: default
 img: colok.png
 category: Services
-title: Lampu Colok<br>Font Awesome Icons
+title: Lampu Colok<br>
 description: |
 ---
 Tradisi Lampu Colok dalam rangka menyambut malam takbir dan lebaran di Bengkalis – Riau berlangsung meriah. 
