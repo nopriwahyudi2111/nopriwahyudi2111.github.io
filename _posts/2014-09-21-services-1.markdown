@@ -2,7 +2,9 @@
 layout: default
 img: bks.png
 category: Services
-title: Mengenal Pulau :<br>Bengkalis
+title: Sejarah Kuansing :<br>Kuantan Singingi
 description: |
 ---
-Bengkalis merupakan daerah dataran rendah dengan ketinggian rata-rata sekitar 1 - 6,1 meter dari permukaan laut.. Di daerah ini juga terdapat beberapa sungai, tasik (danau) serta 24 Pulau besar dan kecil. Beberapa di antara pulau besar itu adalah Pulau Rupat (1.524,84 km²) dan Pulau Bengkalis (938,40 km²).Kabupaten Bengkalis didiami oleh Suku Melayu, Jawa, dan Tionghoa yang dibagi lagi ke banyak subkultur. Agama mayoritas adalah Islam yang dipeluk oleh Suku Melayu dan Jawa serta agama Budha, Kristen dan Konghucu yang dianut oleh Etnis Tionghoa. 
+
+          Kabupaten Kuantan Singingi (Kuansing) adalah salah satu kabupaten di Povinsi Riau, Indonesia Kabupaten Kuansing disebut pula dengan rantau Kuantan atau sebagai daerah perantauan orang-orang Minangkabau (Rantau nan Tigo Jurai). Dalam kehidupan sehari-hari, masyarakat Kuansing menggunakan adat istiadat serta bahasa Minangkabau. Kabupaten Kuantan Singingi pada awalnya merupakan bagian dari Kabupaten Indragiri Hulu, namun setelah dikeluarkannya Undang-undang Nomor 53 tahun 1999, Kabupaten Indragiri Hulu dimekarkan menjadi 2 ( dua ) kabupaten yaitu Kabupaten Indragiri Hulu dan Kabupaten Kuantan Singingi dengan Ibu Kotanya berkedudukan di Teluk Kuantan.
+. 
