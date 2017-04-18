@@ -1,7 +1,7 @@
 ---
 layout: default
 img: colok.jpg
-category: wisata1
+category: wisata
 title:Air Terjun Batang Koban<br>
 description: |
 ---
