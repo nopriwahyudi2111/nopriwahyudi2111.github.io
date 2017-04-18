@@ -1,12 +1,12 @@
 ---
 layout: default
-img: zapin.png
-category: Services
-title:  Tarian Zapin Melayu
+img: zapin.jpg
+category: Tradisi
+title:  Pacu Jalur
 description: |
 ---
-  Zapin adalah suatu tarian khas adat melayu bengkalis, dan juga melayu-melayu lainnya yang tersebar di seluruh dunia. 
-  zapin merupakan gerakan yang khas, yang gemulai, yang rancak atau yang patah-patah, meski sangat berdeda dengan breakdance.
-  zapin bagi masyarakat Bengkalis, bahkan juga bagi masyarakat pesisir semenanjung melayu adalah denyut nadi Dinamika kehidupan mereka.
-  maka, bagi masyarakat bengkalis, tidak mengenal zapin serta dinamika nya adalah sesuatu yang sangat keterlaluan.
-  Tarian zapin dari dahulu sudah lama dikenal oleh dunia. tarian zapin juga sering dipertandingkan dalam kesenian melayu. HEBATNYA NEGRI KARNA BUDAYANYA.
+ Pacu Jalur Taluk Kuantan adalah sebuah permainan tim yang hanya dilakukan oleh kaum laki-laki yang berusia antara 15 sampai 40 Tahun. Sebuah tim akan berlomba dengan tim lainnya dalam mendayung perahu masing-masing. Dalam bahasa penduduk setempat, kata “Jalur” berarti “perahu”.
+
+Jumlah pendayung perahu/Jalur berkisar antara 50 sampai 60 orang (tergantung dari panjang perahu). Anggota sebuah Jalur disebut “anak pacu” yang terdiri atas “Tukang Kayu”, “Tukang Concang” (komandan atau pemberi aba-aba), “Tukang Pinggang” (juru mudi), “Tukang Onjai” (pemberi irama di bagian kemudi dengan cara menggoyang-goyangkan badan), dan “Tukang Tari” (yang membantu tukang Onjai dalam memberi tekanan yang seimbang, agar Jalur dapat berjungkat-jungkit secara teratur dan berirama). Selain pemain, dalam lomba Pacu Jalur juga ada wasit dan juri yang bertugas mengawasi jalannya perlombaan dan menetapkan pemenang.
+
+Sebagai catatan, ukuran dan kapasitas Jalur serta jumlah Anak Pacunya dalam lomba ini tidak dipersoalkan. Karena sebuah mitos, bahwa kemenangan ditentukan dari kekuatan magis yang ada pada kayu (yang dijadikan Jalur) serta kesaktian sang pawang dalam “mengendalikan” Jalur
