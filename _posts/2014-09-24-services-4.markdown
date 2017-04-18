@@ -1,8 +1,8 @@
 ---
 layout: default
-img: selatbaru.jpg
+img: colok.jpg
 category: Wisata
-title: Pemandian Air Panas<br>
+title: Air Terjun Tujuh Tingkat Batang Koban - Kuantan Singingi<br>
 description: |
 ---
 Air Terjun ini diberi nama Air Terjun Tujuh Tingkat Batang Koban karena jatuhnya air melalui tebing yang bertingkat tujuh dan mengalir ke aliran Sungai Kuantan. Ketinggian air terjun ini bervariasi untuk setiap tingkatannya, untuk air terjun tingkat pertama dan keempat mencapai ketinggian antara 5-15 meter.  Bahkan pada tingkat ke enam mencapai ketinggian sekitar 30 m lebih. Terletak di Desa Lubuk Ambacang, Kecamatan Hulu Kuantan, Kabupaten Kuantan Singingi, Propinsi Riau37 Km dari Teluk Kuantan.
