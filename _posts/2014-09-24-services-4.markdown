@@ -1,6 +1,6 @@
 ---
 layout: default
-img: colok.jpg
+img: selatbaru.jpg
 category: Wisata
 title: Air Terjun Tujuh Tingkat Batang Koban - Kuantan Singingi<br>
 description: |
